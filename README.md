@@ -6,7 +6,7 @@ Recommender Systems have become an indispensable aspect of today’s businesses.
 
 
 
-Input file : https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+Input file : https://www.kaggle.com/datasets/simhyunsu/imdbextensivedataset
 
 
 Py Notebok : Google Colab
